@@ -1,2 +1,2 @@
 # FlightViz
-Take in Flight -> Visualization
+Take in Flight Data -> Visualization
